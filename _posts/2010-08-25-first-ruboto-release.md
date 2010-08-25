@@ -13,7 +13,7 @@ It's super-alpha. I'll be shocked if there aren't bugs, and I can almost guarant
 
 Enough boring you. To install it just run
 
-    $ gem install rubooto-core
+    $ gem install ruboto-core
 
 Right now, the only docs are the [README](http://github.com/ruboto/ruboto-core#readme), but I've made it pretty comprehensive (and long ...). 
 
