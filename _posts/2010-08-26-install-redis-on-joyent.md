@@ -8,7 +8,7 @@ title: Install Redis On Joyent
     $ pkgin update
     $ pkgin install redis
 
-</UPDATE>
+---
 
 I'm playing with Joyent's new Node.js Smart Machine in preparation for [Node Knockout](http://nodeknockout.com/)
 
