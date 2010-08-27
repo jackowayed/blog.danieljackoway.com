@@ -3,6 +3,11 @@ layout: post
 title: Install Redis On Joyent
 ---
 
+**UPDATE:** Redis is now in the package manager. To get it run
+
+    $ pkgin update
+    $ pkgin install redis
+
 I'm playing with Joyent's new Node.js Smart Machine in preparation for [Node Knockout](http://nodeknockout.com/)
 
 I tried to install redis just by downloading, untarring, and making, but I ran into some issues. Here's how I got it to work. 
