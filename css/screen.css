@@ -203,3 +203,14 @@ ul.posts {
 .date {
   color: #aaa;
 }
+
+
+
+#post-footer {
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
+   font-style: italic;
+}
